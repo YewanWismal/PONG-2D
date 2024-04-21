@@ -1,5 +1,5 @@
 # Unity Pong [2D]
-A simple yet engaging implementation of the timeless arcade game, Pong, developed using Unity 2022's 2D template.
+Pong, one of the earliest and most iconic arcade video games, makes a comeback in this Unity 2022 2D recreation. Originally released in 1972 by Atari, Pong's simple table tennis-themed gameplay and two-dimensional graphics captivated players. Recapture the nostalgia of this classic while exploring the power of Unity's 2D tools.
 
-## Features
+
 
