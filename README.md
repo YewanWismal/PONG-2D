@@ -3,6 +3,10 @@
 
 
 ### ✨FEATURES✨
-* Feature 1
-* Feature 2
-* Feature 3
+* Basic AI
+* UI
+* Physics
+* 2D Graphics
+* Sound Effects
+
+
