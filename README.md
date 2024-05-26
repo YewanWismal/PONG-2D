@@ -7,6 +7,5 @@
 * UI
 * Physics
 * 2D Graphics
-* Sound Effects
 
 
